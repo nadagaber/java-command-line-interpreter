@@ -3,7 +3,7 @@
 
 Overview:
 
-This command-line interpreter program, written in Java, was developed as part of an assignment for the Operating Systems course at Cairo University. The program allows users to interact with the operating system by executing various commands and performing system operations.
+This command-line interpreter program implemented in java allows users to interact with the operating system by executing various commands and performing system operations.
 
 
-team member: @https://github.com/malakg1
+team member: [Malak Gamal](https://github.com/malakg1)
